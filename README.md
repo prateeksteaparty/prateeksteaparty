@@ -52,32 +52,12 @@ My toolkit includes **Docker, Kubernetes, AWS, Terraform, PostgreSQL, Redis, and
 
 <p align="center">
   <a href="https://github.com/prateeksteaparty">
-    <img src="https://github-readme-stats.vercel.app/api?username=prateeksteaparty&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=86400" width="495" alt="Prateek's GitHub statistics" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/prateeksteaparty">
-    <img src="https://streak-stats.demolab.com?user=prateeksteaparty&theme=github-dark-blue&hide_border=true" width="495" alt="Prateek's GitHub contribution streak" />
+    <img src="https://ghstats.dev/api/card?username=prateeksteaparty&amp;border_radius=1" width="495" alt="Prateek's GitHub statistics" />
   </a>
 </p>
 
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/prateeksteaparty">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateeksteaparty&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true" width="100%" alt="Prateek's GitHub contribution activity graph" />
-  </a>
+  <a href="https://github.com/prateeksteaparty">View my GitHub contribution activity</a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/prateeksteaparty">View my GitHub profile and contribution calendar</a>
-</p>
-
-<h2 align="center">⌘ Pac-Man Contributions</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prateeksteaparty/prateeksteaparty/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prateeksteaparty/prateeksteaparty/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/prateeksteaparty/prateeksteaparty/output/pacman-contribution-graph.svg" width="100%">
-</picture>
