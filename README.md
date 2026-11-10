@@ -1,48 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header" alt="Dark header banner" width="100%" />
+  <img src="./ascihand-removebg-preview.png" alt="ASCII art banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Prateek Shinde</h1>
 
-<h3 align="center">Systems Programming · Cloud Infrastructure · Backend Engineering</h3>
+<h3 align="center">Systems Programming · Cloud Infrastructure</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=50&lines=Building+systems.+Understanding+what+happens+underneath.;Exploring+Linux%2C+networks%2C+and+cloud+infrastructure.;Learning+by+building+reliable+software." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=50&lines=Building+systems.;Exploring+Linux%2C+networks%2C+and+cloud.;Learning+by+building." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  I build and explore systems at the intersection of low-level programming, networking, and cloud infrastructure.
+  I build reliable software and enjoy understanding how systems work under the hood.
 </p>
 
 <h2 align="center">🚀 About Me</h2>
 
-<p align="left">
-  I'm pursuing an <strong>M.Sc. in Computer Science at Philipps-Universität Marburg, Germany</strong>, with a focus on Linux, distributed systems, and infrastructure engineering.
-</p>
+<img align="right" src="./astro-removebg-preview.png" width="240" alt="Pixel art developer illustration">
 
-<p align="left">
-  I'm especially interested in systems programming, modern C++, computer networks, concurrency, cloud infrastructure, observability, and performance engineering. I enjoy learning how software behaves beneath the abstractions and turning that understanding into practical projects.
-</p>
+I'm pursuing an **M.Sc. in Computer Science at Philipps-Universität Marburg**, interested in systems programming, networking, and cloud infrastructure.
 
-<p align="left">
-  Currently exploring Linux internals, TCP/IP and socket programming, cloud-native architecture, Kubernetes, Terraform, and system reliability.
-</p>
-
-<h2 align="center">🧪 Selected Projects</h2>
-
-<p>
-  <strong>F1-RTIP</strong><br />
-  <em>High-Performance UDP Telemetry Ingestion</em><br />
-  A multi-threaded telemetry ingestion system exploring binary packet processing, UDP networking, concurrent pipelines, and real-time data streaming.<br />
-  <code>C++17</code> <code>POSIX Sockets</code> <code>Multithreading</code> <code>InfluxDB</code> <code>Docker</code>
-</p>
-
-<p>
-  <strong>CAST-LB</strong><br />
-  <em>Carbon-Aware Spatio-Temporal Load Balancer</em><br />
-  Exploring carbon-aware workload scheduling through multi-region cloud routing, electricity carbon-intensity forecasts, and temporal workload shifting.<br />
-  <code>Python</code> <code>AWS Lambda</code> <code>Terraform</code> <code>Scikit-learn</code> <code>DynamoDB</code>
-</p>
+<br clear="right"/>
 
 <h2 align="center">🤝 Connect</h2>
 
@@ -73,8 +51,16 @@
   <img src="https://streak-stats.demolab.com?user=prateeksteaparty&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
-<h2 align="center">📈 Activity Graph</h2>
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateeksteaparty&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateeksteaparty&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
+
+<h2 align="center">⌘ Pac-Man Contributions</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prateeksteaparty/prateeksteaparty/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prateeksteaparty/prateeksteaparty/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/prateeksteaparty/prateeksteaparty/output/pacman-contribution-graph.svg" width="100%">
+</picture>
