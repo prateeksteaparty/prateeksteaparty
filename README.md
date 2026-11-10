@@ -18,7 +18,11 @@
 
 <img align="right" src="./astro-removebg-preview.png" width="240" alt="Pixel art developer illustration">
 
-I'm pursuing an **M.Sc. in Computer Science at Philipps-Universität Marburg**. I work with **C++, C, Python, and Linux**, and I'm interested in networking and cloud infrastructure. My core skills include **Docker, Kubernetes, AWS, Terraform, PostgreSQL, Redis, and FastAPI**.
+I'm pursuing an **M.Sc. in Computer Science at Philipps-Universität Marburg**.
+
+I work with **C++, C, Python, and Linux**, and I'm interested in systems programming, networking, and cloud infrastructure.
+
+My toolkit includes **Docker, Kubernetes, AWS, Terraform, PostgreSQL, Redis, and FastAPI**.
 
 <br clear="right"/>
 
@@ -47,14 +51,27 @@ I'm pursuing an **M.Sc. in Computer Science at Philipps-Universität Marburg**. 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateeksteaparty&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=prateeksteaparty&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak" />
+  <a href="https://github.com/prateeksteaparty">
+    <img src="https://github-readme-stats.vercel.app/api?username=prateeksteaparty&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=86400" width="495" alt="Prateek's GitHub statistics" />
+  </a>
 </p>
 
-<h2 align="center">📈 Contribution Graph</h2>
+<p align="center">
+  <a href="https://github.com/prateeksteaparty">
+    <img src="https://streak-stats.demolab.com?user=prateeksteaparty&theme=github-dark-blue&hide_border=true" width="495" alt="Prateek's GitHub contribution streak" />
+  </a>
+</p>
+
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateeksteaparty&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <a href="https://github.com/prateeksteaparty">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateeksteaparty&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true" width="100%" alt="Prateek's GitHub contribution activity graph" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/prateeksteaparty">View my GitHub profile and contribution calendar</a>
 </p>
 
 <h2 align="center">⌘ Pac-Man Contributions</h2>
